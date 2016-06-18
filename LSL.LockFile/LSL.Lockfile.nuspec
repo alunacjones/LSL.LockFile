@@ -9,4 +9,7 @@
     <projectUrl>http://blah.codeplex.com/</projectUrl>
     <licenseUrl>http://blah.codeplex.com/license</licenseUrl>
   </metadata>
+  <files>
+    <file src="bin\Release\*.dll" target="lib\net40" />
+  </files>
 </package>
