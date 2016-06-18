@@ -28,7 +28,7 @@ namespace LSL.LockFile
 			internal ILockFile Create()
 			{
 				try {
-					File.WriteAllBytes(LockFilePath, new byte[0]);
+					File.Open(LockFilePath, FileMode.CreateNew).Dispose();
 					WasCreated = true;
 				}
 				// disable once EmptyGeneralCatchClause

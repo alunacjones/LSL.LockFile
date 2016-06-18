@@ -11,6 +11,6 @@
 	<tags>lock file lockfile disposable</tags>
   </metadata>
   <files>
-    <file src="bin\Release\*.dll" target="lib\net40" />
+    <file src="bin\Release\LSL.LockFile.dll" target="lib\net40" />
   </files>
 </package>
