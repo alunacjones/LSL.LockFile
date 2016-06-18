@@ -6,8 +6,9 @@
     <authors>Alun Jones</authors>
     <description>Disposable lock file</description>
     <language>en-GB</language>
-    <projectUrl>http://blah.codeplex.com/</projectUrl>
-    <licenseUrl>http://blah.codeplex.com/license</licenseUrl>
+    <projectUrl>https://github.com/alunacjones/LSL.LockFile</projectUrl>
+    <licenseUrl>https://github.com/alunacjones/LSL.LockFile</licenseUrl>
+	<tags>lock file lockfile disposable</tags>
   </metadata>
   <files>
     <file src="bin\Release\*.dll" target="lib\net40" />
