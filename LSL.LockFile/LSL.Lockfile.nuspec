@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>Alun Jones</authors>
+    <description>Disposable lock file</description>
+    <language>en-GB</language>
+    <projectUrl>http://blah.codeplex.com/</projectUrl>
+    <licenseUrl>http://blah.codeplex.com/license</licenseUrl>
+  </metadata>
+</package>
